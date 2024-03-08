@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/vmware/vra-sdk-go/pkg/models"
+	"github.com/hmalphettes/vro-sdk-go/pkg/models"
 )
 
 // AddRootCategoryReader is a Reader for the AddRootCategory structure.

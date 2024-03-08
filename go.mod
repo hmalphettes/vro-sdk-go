@@ -1,4 +1,4 @@
-module github.com/vmware/vra-sdk-go
+module github.com/hmalphettes/vro-sdk-go
 
 require (
 	github.com/go-openapi/errors v0.20.3

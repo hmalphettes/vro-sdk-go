@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/vmware/vra-sdk-go/pkg/models"
+	"github.com/hmalphettes/vro-sdk-go/pkg/models"
 )
 
 // GetO11nTypesReader is a Reader for the GetO11nTypes structure.

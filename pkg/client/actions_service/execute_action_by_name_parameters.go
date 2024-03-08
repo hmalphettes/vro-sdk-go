@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/vmware/vra-sdk-go/pkg/models"
+	"github.com/hmalphettes/vro-sdk-go/pkg/models"
 )
 
 // NewExecuteActionByNameParams creates a new ExecuteActionByNameParams object,

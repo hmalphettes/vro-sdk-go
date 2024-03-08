@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/vmware/vra-sdk-go/pkg/models"
+	"github.com/hmalphettes/vro-sdk-go/pkg/models"
 )
 
 // NewInsertPermissionsForCategoryParams creates a new InsertPermissionsForCategoryParams object,
